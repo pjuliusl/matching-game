@@ -7,7 +7,7 @@ function BoardGame (amountCards) {
 
     console.log($htmlCardGame);
 
-    return `
+    return /*html*/ `
         <section class="board-game">
             ${$htmlContent}
         </section>
